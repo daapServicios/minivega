@@ -1,0 +1,9 @@
+.divLogin{
+    color: #fff;
+    background: rgba(9, 49, 9,.7);
+    width: 100%;
+    max-width: 500px;
+    margin: 0px auto;
+    border-radius: 8px;
+    padding: 10px;
+}

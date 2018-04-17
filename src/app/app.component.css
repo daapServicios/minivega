@@ -1,0 +1,53 @@
+
+header{
+    padding-top:45px;
+}
+
+.divtitulo{
+    color: #fff;
+    background: rgba(9, 49, 9,.8);
+    width: 100%;
+    margin: auto;
+    border-radius: 15px;
+    padding: 10px;
+}
+.lblTitulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5em;
+    padding: 10px;
+}
+.col-centrada{
+    float: none;
+    margin: 0 auto;
+}
+
+
+.divfooter{    
+    color: #fff;
+    background: rgba(9, 49, 9,.8);
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.lblFooter{
+    margin: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.0em;
+}
+.col-izquierdo{
+    float: left;
+    margin-left: 10px;
+}
+.col-derecho{
+    float: right;
+    margin-right: 10px;
+}
+.divCentrrado{
+    position: relative;
+    margin: 50px;
+    background-image: url("imagenes/construccion.jpg");
+    background-repeat:no-repeat;
+    background-position:center center;
+    width: auto;
+    height: 300px;    
+}

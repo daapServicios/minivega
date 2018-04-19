@@ -44,10 +44,11 @@ header{
 }
 .divCentrrado{
     position: relative;
-    margin: 50px;
-    background-image: url("imagenes/construccion.jpg");
+    margin:200px;
+    background-image: url("imagenes/construccion2.jpg");
     background-repeat:no-repeat;
     background-position:center center;
     width: auto;
-    height: 300px;    
+    height: 300px;      
+    transform: rotate(-45deg);
 }
